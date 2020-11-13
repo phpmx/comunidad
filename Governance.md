@@ -116,7 +116,7 @@ Los integrantes del core team demuestran:
 Conforme la comunidad madura, las contribuciones van más allá del código. A continuación se presenta una lista incompleta y sin orden especifico de areas en las que las contribuciones pueden ser consideradas para integrarse al core team:
 
 - Colaboración en administración y alcance de la comunidad.
-- Dando soporte y ayuda en listas de correo, Slack, etc.
+- Dando soporte y ayuda en meetups, redes sociales, Slack, etc.
 - Triage de tickets.
 - Enviar pull requests (coding, documentación, pruebas).
 - Revisar pull requests.
@@ -146,4 +146,3 @@ Este documento es una traducción y adaptación de _[PEP 13 -- Python Language G
 ## Copyright
 
 Este documento se considera de dominio público. 
-
