@@ -22,7 +22,7 @@ El consejo directivo es un comité conformado por 5 personas.
 - Buscar consenso entre la comunidad y el core team antes de actuar en su capacidad formal.
 - Actuar como una "corte final" para desiciones donde todos los otros métodos de consenso hayan fallado.
 
-#### Poderes
+#### Atribuciones
 
 El consejo tiene autoridad amplia de toma de desiciones acerca de la comunidad y sus proyectos. Puede por ejemplo:
 
