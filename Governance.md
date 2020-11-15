@@ -66,7 +66,7 @@ Si se pierde comunicación con un integrante del consejo por más de un mes, el 
 
 #### Conflictos de interés
 
-Aun cuando confiamos plenamente que los integrantes del consejo actúan con base a los intereses de la comunidad, la simple apariencia de que alguna compañía domine el consejo podría ser dañina y lastimar la confianza. Para evitar cualquier apariencia de conflicto de interés, no podrá haber más de dos integrantes del consejo que trabajen para la misma compañía o empleador.
+Aun cuando confiamos plenamente que los integrantes del consejo actúan con base en los intereses de la comunidad, la simple apariencia de que alguna compañía domine el consejo podría ser dañina y lastimar la confianza. Para evitar cualquier apariencia de conflicto de interés, no podrá haber más de dos integrantes del consejo que trabajen para la misma compañía o empleador.
 
 En una elección de consejo, en caso que las tres personas con más votos trabajen para la misma compañía o empleador, la persona con menos votos de estas será descalificada y la sexta persona con mas votos es promovida al quinto lugar en la votación; esto se repetirá las veces que sea necesario hasta que un consejo válido sea formado.
 
