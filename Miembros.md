@@ -13,7 +13,7 @@ Las personas que integran el Consejo Directivo Anual, se renuevan cada año, por
 
 ## Core Team
 
-Los miembros del Core Team tienen distintos tiempos de duración con sus responsabilidades, según sea cada una de estas; y se enfocan en gestionar o mantener un aspecto o recurso, colaborando en un esfuerzo coordinado para cumplir con los proyectos de la comunidad.
+Las personas que integran el Core Team tienen distintos tiempos de duración con sus responsabilidades, según sea cada una de estas; y se enfocan en gestionar o mantener un aspecto o recurso, colaborando en un esfuerzo coordinado para cumplir con los proyectos de la comunidad.
 
 NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.slack.com/).
 
