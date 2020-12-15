@@ -1,7 +1,7 @@
 
 # Miembros de la Comunidad PHP México
 
-Todos son **¡Bienvenidos!** a la comunidad de [PHP México](https://phpmexico.mx/), y todos pueden formar parte de uno o varios medios de interacción con los que cuenta la comunidad. Pero existen ciertos miembros, que se destacan por su participación, donación o acciones dentro de la comunidad, para mejorar o mantener los proyectos que llevamos a cabo; así que se dividen según estos medios o recursos o proyectos, a continuación los miembros destacados de la comunidad.
+Todas las personas son **¡Bienvenidas!** a formar parte de la comunidad de [PHP México](https://phpmexico.mx/) y participar cualquiera de los medios de interacción con los que contamos, pero existen algunas que se destacan por su participación, donación o acciones dentro de la comunidad, para mejorar o mantener los proyectos que llevamos a cabo; así que se dividen según estos medios, recursos o proyectos. A continuación se encuentra la lista de dichas personas y su diferente organización.
 
 ## Consejo Directivo Anual
 
