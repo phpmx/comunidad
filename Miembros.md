@@ -5,7 +5,7 @@ Todas las personas son **¡Bienvenidas!** a formar parte de la comunidad de [PHP
 
 ## Consejo Directivo Anual
 
-Los miembros del Consejo Directivo Anual, se renuevan cada año, por votos de la comunidad; y su principal atribución es contar con autoridad amplia de toma de decisiones acerca del rumbo de la comunidad y sus proyectos.
+Las personas que integran el Consejo Directivo Anual, se renuevan cada año, por votos de la comunidad; y su principal atribución es contar con autoridad amplia de toma de decisiones acerca del rumbo de la comunidad y sus proyectos.
 
 ### 2021
 
