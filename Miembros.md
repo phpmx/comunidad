@@ -19,6 +19,8 @@ Las personas que integran el Consejo Directivo Anual, se renuevan cada año, por
 
 * Mariano (marianorenteria)
 
+Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
+
 ## Core Team
 
 Las personas que integran el Core Team tienen distintos tiempos de duración con sus responsabilidades, según sea cada una de estas; y se enfocan en gestionar o mantener un aspecto o recurso, colaborando en un esfuerzo coordinado para cumplir con los proyectos de la comunidad.
