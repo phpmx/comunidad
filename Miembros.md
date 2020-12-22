@@ -9,7 +9,15 @@ Las personas que integran el Consejo Directivo Anual, se renuevan cada año, por
 
 ### 2021
 
-* -en proceso de votación-
+* Gaby (gabygaby)
+
+* Dafne (Daffyta)
+
+* David (dmouse)
+
+* David (jelid.leon)
+
+* Mariano (marianorenteria)
 
 ## Core Team
 
