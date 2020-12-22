@@ -2,11 +2,38 @@
 
 ## Consejo Directivo Actual
 
-- (TBD)
+* Dafne (Daffyta)
+* David (dmouse)
+* David (jelid.leon)
+* Gaby (gabygaby)
+* Mariano (marianorenteria)
+
+Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
 
 ## Core Team
 
-- (TBD)
+* Aldo (aldo.xyz)
+* Aldo (roboninja)
+* Alex (alexvargas)
+* Asfo (asfo)
+* Carlos (jcarlos)
+* Dafne (Daffyta)
+* David (dmouse)
+* David (gnuget)
+* David (jelidleon)
+* Erick (Erick)
+* Fidel (jashk)
+* Gaby (gabygaby)
+* Javier (javierledezma)
+* Jesus (jmolivas)
+* Juan (jujo)
+* Luis (lcortes)
+* Marco (rzerostern)
+* Mariano (marianorenteria)
+* Miguel (gueroverde)
+* Ricardo (ricardorivera)
+* Sagrario (smmd)
+* Victor (TheKingOfBongo)
 
 ## Especificación
 
@@ -48,13 +75,13 @@ La elección del consejo consiste de dos fases:
 
 Cada fase dura de una a dos semanas, a discreción del consejo regente. Para la elección inicial, ambas fases durarán dos semanas cada una.
 
-El proceso de elección es administrado por una persona elegida por el consejo actual. Para la elección inicial, dicha persona sera elegida por _**(dmouse?)**_.
+El proceso de elección es administrado por una persona elegida por el consejo actual.
 
 El consejo idealmente deberá ser un reflejo de la diversidad de la comunidad y todas las personas que la conforman, y las personas integrantes del core team deberán tener esto en cuenta al votar.
 
 #### Mandato
 
-(TBD)
+El consejo directivo es elegido de forma ordinaria anualmente, en las primeras semanas de Diciembre. El mandato del consejo es válido desde el día en que se dan a conocer los resultados de la votación, hasta el dia que de inicio el mandato del siguiente consejo directivo.
 
 #### Vacantes
 
