@@ -79,6 +79,14 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 * Ricardo (ricardorivera)
 
+### Proyectos: Podcast
+
+* Erick (Erick)
+
+* Luis (lcortes)
+
+* Paulina (Paulina Carolina Guevara Nieves)
+
 ### Repositorio: Github
 
 * Erick (Erick)
