@@ -12,7 +12,7 @@ Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
 
 ## Core Team
 
-* Aldo (aldo.xyz)
+* _Aldo (aldo.xyz) (Inactivo)_
 * Aldo (roboninja)
 * Alex (alexvargas)
 * Asfo (asfo)
@@ -20,7 +20,7 @@ Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
 * Dafne (Daffyta)
 * David (dmouse)
 * David (gnuget)
-* David (jelidleon)
+* David (jelid.leon)
 * Erick (Erick)
 * Fidel (jashk)
 * Gaby (gabygaby)
@@ -32,9 +32,9 @@ Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
 * Mariano (marianorenteria)
 * Miguel (gueroverde)
 * Paulina (Paulina Carolina Guevara Nieves)
-* Ricardo (ricardorivera)
-* Sagrario (smmd)
-* Victor (TheKingOfBongo)
+* Ricardo (Ricardo Rivera)
+* Sagrario (sagmmd)
+* Victor (Mr.Vlad)
 
 ## Especificación
 
