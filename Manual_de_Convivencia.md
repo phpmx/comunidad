@@ -21,7 +21,7 @@ Teams de Meetup y Redes Sociales
 
 Para el presente manual, se debe tener en consideración lo siguiente:
 
-* Siempre seguir el CoC y en caso de haber una incidencia fuera de este, contactar al Core Team inmediatamente.
+* Siempre seguir el CdC y en caso de haber una incidencia fuera de este, contactar al Core Team inmediatamente.
 * Evitar discusiones que estén fuera de lo planeado (flamewars, bullying, retroalimentación sin fundamento o contexto, etc).
 
 ## Ejemplos y medidas de contención
