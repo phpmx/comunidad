@@ -41,7 +41,7 @@ En caso de que los involucrados incurran antes o durante las primeras llamadas d
 
 ### Publicidad (aplica para Meetups Virtuales)
 
-Toda publicidad dentro de las meetups digitales no está permitida, salvo que el Core Team así lo permita previo aviso a los integrantes del Team vía Slack. En dado caso de que se presente un caso así, se procede a lo siguiente:
+Queda prohibido el hacer cualquier tipo publicidad dentro de los eventos de la comunidad, salvo la misma haya sido aprobada previamente por el Core Team. En caso de que se presente un caso así, se procede a lo siguiente:
 
 1. Llamado a cesar la difusión de publicidad (_X, lamentablemente la publicidad no está permitida sin autorización de nuestro core team._)
 2. En caso de persistir, se vuelve a hacer una llamada de atención. (_X, te recordamos que la publicidad no está permitida sin autorización de nuestro core team. Última llamada_)
