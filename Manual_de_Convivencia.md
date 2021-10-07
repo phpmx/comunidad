@@ -45,7 +45,7 @@ Toda publicidad dentro de las meetups digitales no está permitida, salvo que el
 
 1. Llamado a cesar la difusión de publicidad (_X, lamentablemente la publicidad no está permitida sin autorización de nuestro core team._)
 2. En caso de persistir, se vuelve a hacer una llamada de atención. (_X, te recordamos que la publicidad no está permitida sin autorización de nuestro core team. Última llamada_)
-3. Si el involucrado persiste, será expulsado del evento.
+3. Si la persona involucrada continua con dicha actividad, será expulsada del evento.
 
 La persona involucrada será expulsada inmediatamente del evento en caso de detectarse que dicha actividad proviene de una herramienta automatizada.
 
