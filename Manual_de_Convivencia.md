@@ -37,7 +37,7 @@ Las flamewars son discusiones sin sentido hacia cualquier integrante de la meetu
 2. Si el comportamiento persiste, se hace una llamada más enfática a los involucrados (_X, Y, por favor, no es el lugar para esta discusión. Recuerden que están cayendo en una falta a nuestro Código de Conducta. Última llamada._)
 3. Si el comportamiento persiste, los involucrados deberán ser expulsados del evento (kick) y si así lo amerita, ejecutar sanciones de conformidad con el CoC.
 
-En caso de que los involucrados incurran antes o durante las primeras llamadas de atención en faltas al CoC, se procederá conforme al mismo.
+En caso de que las personas involucradas incurran en una violación al CdC antes o durante las primeras llamadas, se procederá inmediatamente conforme al mismo.
 
 ### Publicidad (aplica para Meetups Virtuales)
 
