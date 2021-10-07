@@ -2,7 +2,7 @@
 
 ## Objetivo
  
-El presente manual tiene como objetivo el evitar que sucesos aislados y que van en contra del Código de Conducta de PHPMX (en adelante CoC) sucedan dentro de los eventos de PHPMX.
+El presente manual tiene como objetivo el evitar que sucesos aislados y/o que violan el Código de Conducta de PHPMX (en adelante CdC) sucedan dentro de los eventos de PHPMX.
 
 ## Involucrados
 
