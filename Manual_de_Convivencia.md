@@ -17,7 +17,7 @@ Teams de Meetup y Redes Sociales
    * Redes Sociales
  * Excepciones
 
-## Recomendaciones principales para los integrantes
+## Recomendaciones
 
 Para el presente manual, se debe tener en consideración lo siguiente:
 
