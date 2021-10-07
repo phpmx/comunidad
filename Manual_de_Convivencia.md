@@ -9,7 +9,7 @@ El presente manual tiene como objetivo el evitar que sucesos aislados y que van 
 Teams de Meetup y Redes Sociales
 
 ## Contenido
-* Recomendaciones principales para los integrantes
+* Recomendaciones
 * Ejemplos y medidas de contención
    * Meetups
      * Flamewars
