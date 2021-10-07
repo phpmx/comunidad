@@ -47,7 +47,7 @@ Toda publicidad dentro de las meetups digitales no está permitida, salvo que el
 2. En caso de persistir, se vuelve a hacer una llamada de atención. (_X, te recordamos que la publicidad no está permitida sin autorización de nuestro core team. Última llamada_)
 3. Si el involucrado persiste, será expulsado del evento.
 
-En dado caso de detectarse que el involucrado o la publicidad proviene de una herramienta automatizada, el usuario será expulsado inmediatamente del evento.
+La persona involucrada será expulsada inmediatamente del evento en caso de detectarse que dicha actividad proviene de una herramienta automatizada.
 
 ### Redes Sociales
 
