@@ -151,7 +151,7 @@ Conforme la comunidad madura, las contribuciones van más allá del código. A c
 - Participar en decisiones de diseño.
 - Contribuir con experiencia en diferentes áreas de dominio (seguridad, traducciones, etc.).
 - Administración de integración continua.
-- Administración de de servidores.
+- Administración de servidores.
 - Mantenimiento de proyectos relacionados.
 - Creación de diseños.
 
