@@ -10,5 +10,5 @@ En Slack podemos ser muchísimas personas, pero las personas del Core Team son l
 
 Si deseas consultar lo que discute el Consejo Directivo puedes ver [su folder](./Consejo_2021).
 
-## [Código de Conducta (CoC)](./Codigo_de_Conducta.md)
+## [Código de Conducta (CdC)](./Codigo_de_Conducta.md)
 El código de conducta rige a todos los Miembros de la comunidad, en todos los foros públicos. 
