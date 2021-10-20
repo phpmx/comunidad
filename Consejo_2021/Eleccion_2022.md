@@ -9,7 +9,7 @@ El consejo directivo 2021 conformado por:
 
 De acuerdo al Governance esta obligado a la organización de la [Elección](./Governance.md#elecci%C3%B3n) la cual estará programada de la siguiente forma:
 
-## Fase 0 - Invitar a miembros al Core team - Oct 20 a Nov 15, 2021
+## Fase 0 - Invitar al Core team - Oct 20 a Nov 15, 2021
 Miembros del core team y del consejo invitarán y propondrán a nuevos miembros al equipo core para que participen en la elección del consejo del 2022.
 
 ## Fase 1 - Miembros core proponen al Consejo - Nov 16 a Nov 21, 2021
