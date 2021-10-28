@@ -13,7 +13,7 @@ Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
 ## Core Team
 
 * _Aldo (aldo.xyz) (Inactivo)_
-* Aldo (roboninja)
+* _Aldo (roboninja) (Inactivo)_
 * Alex (alexvargas)
 * Asfo (asfo)
 * Carlos (jcarlos)

@@ -67,8 +67,6 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 ### Proyectos: Mentoring
 
-* Aldo (roboninja)
-
 * David (jelidleon)
 
 * Asfo (asfo)
