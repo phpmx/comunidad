@@ -7,19 +7,19 @@ Todas las personas son **¡Bienvenidas!** a formar parte de la comunidad de [PHP
 
 Las personas que integran el Consejo Directivo Anual, se renuevan cada año, por votos de la comunidad; y su principal atribución es contar con autoridad amplia de toma de decisiones acerca del rumbo de la comunidad y sus proyectos.
 
-### 2021
+### 2022
 
 * Gaby (gabygaby)
 
 * Dafne (Daffyta)
 
-* David (dmouse)
+* Sagrario (sagmmd)
 
-* David (jelid.leon)
+* Erick (Erick)
 
-* Mariano (marianorenteria)
+* Fidel (jashk)
 
-Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
+https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
 
 ## Core Team
 
@@ -126,3 +126,17 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 * Marco (rzerostern)
 
 * Sagrario (smmd)
+
+### Consejo Directivo del 2021
+
+* Gaby (gabygaby)
+
+* Dafne (Daffyta)
+
+* David (dmouse)
+
+* David (jelid.leon)
+
+* Mariano (marianorenteria)
+
+Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552

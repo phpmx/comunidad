@@ -2,13 +2,13 @@
 
 ## Consejo Directivo Actual
 
-* Dafne (Daffyta)
-* David (dmouse)
-* David (jelid.leon)
+* Sagrario (sagmmd)
 * Gaby (gabygaby)
-* Mariano (marianorenteria)
+* Dafne (Daffyta)
+* Erick (Erick)
+* Fidel (jashk)
 
-Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
+https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
 
 ## Core Team
 
@@ -27,7 +27,10 @@ Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
 * Javier (javierledezma)
 * Jesus (jmolivas)
 * Juan (jujo)
+* Paulina Carolina (La Booleana)
 * Luis (lcortes)
+* Leidi Flores (Leidi Flores)
+* Manuel Ojeda (Manuel Ojeda)
 * Marco (rzerostern)
 * Mariano (marianorenteria)
 * Miguel (gueroverde)
