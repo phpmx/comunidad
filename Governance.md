@@ -5,10 +5,13 @@
 * Sagrario (sagmmd)
 * Gaby (gabygaby)
 * Dafne (Daffyta)
-* Erick (Erick)
 * Fidel (jashk)
 
 https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
+
+
+* Erick (Erick) - Renunció a su posicion a partir del 4 de Abril de 2022.
+
 
 ## Core Team
 
