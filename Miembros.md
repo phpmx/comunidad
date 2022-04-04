@@ -15,11 +15,12 @@ Las personas que integran el Consejo Directivo Anual, se renuevan cada año, por
 
 * Sagrario (sagmmd)
 
-* Erick (Erick)
-
 * Fidel (jashk)
 
 https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
+
+
+* Erick (Erick) - Renunció a su posicion a partir del 4 de Abril de 2022.
 
 ## Core Team
 
@@ -73,21 +74,15 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 ### Proyectos: Slack-Bot
 
-* Erick (Erick)
-
 * Ricardo (ricardorivera)
 
 ### Proyectos: Podcast
-
-* Erick (Erick)
 
 * Luis (lcortes)
 
 * Paulina (Paulina Carolina Guevara Nieves)
 
 ### Repositorio: Github
-
-* Erick (Erick)
 
 * Ricardo (ricardorivera)
 
@@ -96,8 +91,6 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 * Javier (javierledezma)
 
 ### Sitio Web
-
-* Erick (Erick)
 
 * Ricardo (ricardorivera)
 
@@ -110,8 +103,6 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 * Mariano (marianorenteria)
 
 * Juan (jujo)
-
-* Erick (Erick)
 
 * David (gnuget)
 
