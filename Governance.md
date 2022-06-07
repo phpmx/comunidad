@@ -35,7 +35,6 @@ https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
 * Leidi Flores (Leidi Flores)
 * Manuel Ojeda (Manuel Ojeda)
 * Marco (rzerostern)
-* Mariano (marianorenteria)
 * Miguel (gueroverde)
 * Paulina (Paulina Carolina Guevara Nieves)
 * Ricardo (Ricardo Rivera)
