@@ -13,6 +13,12 @@ En el correo electrónico favor de indicar cómo es que el evento de tu organiza
 
 La comunidad de PHP apoyará con: 
 1. Responderá en un máximo de 7 días hábiles, en caso de tener dudas podría organizarse una video llamada
-2. Publicará de uno a tres posts en cada una de sus redes sociales. 
+2. Publicará de uno a cinco posts en cada una de sus redes sociales. Dependerá de la antelación con la que se planeen las publicaciones y el apoyo del organizador para planear la cantidad de publicaciones.
 
 En caso de desear más publicidad en nuestras redes sociales, las empresas pueden adquirir alguno de nuestros paquetes de patrocinios.
+
+Las redes oficiales de la comunidad son: 
+* [Twitter](https://twitter.com/phpmx/)
+* [Instagram](https://www.instagram.com/phpmx/)
+* [Facebook](https://www.facebook.com/phpmx)
+* [LinkedIn](https://www.linkedin.com/company/phpmx/)
