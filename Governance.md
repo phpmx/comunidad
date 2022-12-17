@@ -20,6 +20,7 @@ https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
 * Alex (alexvargas)
 * Asfo (asfo)
 * Carlos (jcarlos)
+* Cecilia Gonzalez (czeegonzalez)
 * Dafne (Daffyta)
 * David (dmouse)
 * David (gnuget)
@@ -33,12 +34,12 @@ https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
 * Paulina Carolina (La Booleana)
 * Luis (lcortes)
 * Leidi Flores (Leidi Flores)
-* Manuel Ojeda (Manuel Ojeda)
-* Marco (rzerostern)
+* _Manuel Ojeda (Manuel Ojeda) (Inactivo)_
+* _Marco (rzerostern) (Inactivo)_
 * Mariano (marianorenteria)
 * Miguel (gueroverde)
 * Paulina (Paulina Carolina Guevara Nieves)
-* Ricardo (Ricardo Rivera)
+* _Ricardo (Ricardo Rivera) (Inactivo)_
 * Sagrario (sagmmd)
 * Victor (Mr.Vlad)
 
