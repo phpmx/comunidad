@@ -34,7 +34,7 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 * Carlos (jcarlos)
 
-* Aldo (aldo.xyz)
+* David (jelidleon)
 
 * Asfo (asfo)
 
@@ -48,11 +48,15 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 * Victor (TheKingOfBongo)
 
+* David (jelidleon)
+
 ### Redes Sociales: Meetup
 
 * Dafne (Daffyta)
 
 * Juan (jujo)
+
+* David (jelidleon)
 
 ### Financiamiento: Paetron
 
@@ -74,9 +78,11 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 ### Proyectos: Slack-Bot
 
-* Ricardo (ricardorivera)
+* -vacante-
 
 ### Proyectos: Podcast
+
+* David (jelidleon)
 
 * Luis (lcortes)
 
@@ -84,15 +90,11 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 ### Repositorio: Github
 
-* Ricardo (ricardorivera)
-
 * Miguel (gueroverde)
 
 * Javier (javierledezma)
 
 ### Sitio Web
-
-* Ricardo (ricardorivera)
 
 * Alex (alexvargas)
 
@@ -114,9 +116,19 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 * Fidel (jashk)
 
-* Marco (rzerostern)
+* Cecilia Gonzalez (czeegonzalez)
 
 * Sagrario (smmd)
+
+## Cuadro de Honor
+
+En esta sección se listan a los miembros del Core Team inactivos y los anteriores miembros del Consejo Directivo, de años pasados.
+
+* Aldo (aldo.xyz)
+
+*  Marco (rzerostern)
+
+* Ricardo (ricardorivera)
 
 ### Consejo Directivo del 2021
 
