@@ -2,15 +2,13 @@
 
 ## Consejo Directivo Actual
 
-* Sagrario (sagmmd)
-* Gaby (gabygaby)
-* Dafne (Daffyta)
+* Cecilia Gonzalez (czeegonzalez)
+* Leidi Flores (Leidi Flores)
+* Juan (jujo)
+* Victor (Mr.Vlad)
 * Fidel (jashk)
 
-https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
-
-
-* Erick (Erick) - Renunció a su posicion a partir del 4 de Abril de 2022.
+https://civs1.civs.us/cgi-bin/results.pl?id=E_90a72b870f6f75fc
 
 
 ## Core Team

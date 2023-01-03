@@ -7,20 +7,19 @@ Todas las personas son **¡Bienvenidas!** a formar parte de la comunidad de [PHP
 
 Las personas que integran el Consejo Directivo Anual, se renuevan cada año, por votos de la comunidad; y su principal atribución es contar con autoridad amplia de toma de decisiones acerca del rumbo de la comunidad y sus proyectos.
 
-### 2022
+### 2023
 
-* Gaby (gabygaby)
+* Cecilia Gonzalez (czeegonzalez)
 
-* Dafne (Daffyta)
+* Leidi Flores (Leidi Flores)
 
-* Sagrario (sagmmd)
+* Juan (jujo)
+
+* Victor (Mr.Vlad)
 
 * Fidel (jashk)
 
-https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
-
-
-* Erick (Erick) - Renunció a su posicion a partir del 4 de Abril de 2022.
+https://civs1.civs.us/cgi-bin/results.pl?id=E_90a72b870f6f75fc
 
 ## Core Team
 
@@ -143,3 +142,20 @@ En esta sección se listan a los miembros del Core Team inactivos y los anterior
 * Mariano (marianorenteria)
 
 Votación: https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_64b6e9d001ebe552
+
+### Consejo Directivo del 2022
+
+* Gaby (gabygaby)
+
+* Dafne (Daffyta)
+
+* Sagrario (sagmmd)
+
+* Fidel (jashk)
+
+* David (jelid.leon)
+
+Votación: https://civs1.civs.us/cgi-bin/results.pl?id=E_e4c263c62dfd8c23
+
+* Erick (Erick) - Renunció a su posicion a partir del 4 de Abril de 2022.
+
