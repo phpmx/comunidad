@@ -37,6 +37,8 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 
 * Asfo (asfo)
 
+* Leidi Flores (Leidi Flores)
+
 ### Redes Sociales: Twitter
 
 * Mariano (marianorenteria)
@@ -46,6 +48,8 @@ NOTA*. Entre paréntesis se anota el alias del usuario en [Slack](https://phpmx.
 * Dafne (Daffyta)
 
 * Victor (TheKingOfBongo)
+
+* Leidi Flores (Leidi Flores)
 
 * David (jelidleon)
 
